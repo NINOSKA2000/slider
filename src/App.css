@@ -167,3 +167,41 @@ position: relative;
   --swiper-navigation-size: 32px !important
  
 }
+
+/*flechas agregadas */
+
+.outfit-builder__categories{
+ 
+  position: relative;
+  z-index: 1;
+ 
+}
+
+.custom-navigation{
+ 
+  display: flex;
+ background-color: transparent;
+  position: absolute;
+  align-content: center;
+  width:100%;
+  z-index: 2;
+  right: 0%;
+   top: 50%;
+    align-items: stretch;
+    justify-content:space-between !important;
+    gap: 10rem;
+    font-size: larger;
+}
+  
+
+
+.custom-prev-button, .custom-next-button{
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+
+
+}
+
+
+
