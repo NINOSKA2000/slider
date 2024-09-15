@@ -1,0 +1,3622 @@
+[
+   {
+      "name":"tops",
+      "items":[
+         {
+            "id":"bash_7834",
+            "title":"Women's Guess Teal Script T-Shirt",
+            "price":699,
+            "brand":"Guess",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7834.jpg",
+            "url":"https://bash.com/women-s-guess-teal-script-t-shirt-385000aaqn4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8000",
+            "title":"The North Face Women's Zumu Long Seeve Sim White",
+            "price":549.95,
+            "brand":"The North Face",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8000.jpg",
+            "url":"https://bash.com/the-north-face-women-s-zumu-long-seeve-sim-white-060601afzq5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5863",
+            "title":"Vans Women's KNU Stack Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5863.jpg",
+            "url":"https://bash.com/vans-women-s-knu-stack-black-white-sneaker-060602aber0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2554",
+            "title":"Women's Sissy Boy Gold Boxy Loose Sequin Logo T-Shirt Dress",
+            "price":0,
+            "brand":"Sissy Boy",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2554.jpg",
+            "url":"https://bash.com/women-s-sissy-boy-gold-boxy-loose-sequin-logo-t-shirt-dress-385000aask3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5994",
+            "title":"Womens Nike MC Trainer 3 Black/White Training Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5994.jpg",
+            "url":"https://bash.com/womens-nike-mc-trainer-3-black-white-training-shoes-130609acxk6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6134",
+            "title":"Womens UGG Chestnut Tazz Platform Slippers",
+            "price":0,
+            "brand":"UGG",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6134.jpg",
+            "url":"https://bash.com/womens-ugg-chestnut-tazz-platform-slippers-385000aagg2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6752",
+            "title":"Vans Women's KNU Stack Natural Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6752.jpg",
+            "url":"https://bash.com/vans-women-s-knu-stack-natural-sneaker-060601afbn0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6657",
+            "title":"Converse Women's Chuck 70 Hi-Top Ribbon Black/Purple Sneaker",
+            "price":149.95,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6657.jpg",
+            "url":"https://bash.com/converse-women-s-chuck-70-hi-top-ribbon-black-purple-sneaker-060602aavl6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5629",
+            "title":"Women's Vans Filmore Hi Platform Black/White Sneaker",
+            "price":899.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5629.jpg",
+            "url":"https://bash.com/women-s-vans-filmore-hi-platform-black-white-sneaker-190605aawy0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1230",
+            "title":"Women's White Bardot Top With Gauged Sides",
+            "price":149.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1230.jpg",
+            "url":"https://bash.com/women-s-white-bardot-top-with-gauged-sides-170800abkq9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4758",
+            "title":"Womens 2790 Platform Cotw Yellow Sneakers",
+            "price":0,
+            "brand":"Superga",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4758.jpg",
+            "url":"https://bash.com/womens-2790-platform-cotw-yellow-sneakers-130609acyp4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1146",
+            "title":"Tapered Leg Darted High Waist Pants",
+            "price":849.95,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1146.jpg",
+            "url":"https://bash.com/tapered-leg-darted-high-waist-pants-000007aayx7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_79",
+            "title":"Women's Red Bubble Mini Skirt",
+            "price":249.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_79.jpg",
+            "url":"https://bash.com/women-s-red-bubble-mini-skirt-170808aaof5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1836",
+            "title":"Women's White No Bad Days Graphic Top",
+            "price":149.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1836.jpg",
+            "url":"https://bash.com/women-s-white-no-bad-days-graphic-top-170800abht4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1930",
+            "title":"Women's Fatigue Seamless Tank Vest",
+            "price":129.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1930.jpg",
+            "url":"https://bash.com/women-s-fatigue-seamless-tank-vest-170800abgv0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5045",
+            "title":"Women's Vans Ward Platform Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5045.jpg",
+            "url":"https://bash.com/women-s-vans-ward-platform-black-white-sneaker-190605ably7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5663",
+            "title":"Women's Vans Ward Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5663.jpg",
+            "url":"https://bash.com/women-s-vans-ward-black-white-sneaker-190605aaqc0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5426",
+            "title":"Womens Vans Ward Vintage Indigo Sneaker",
+            "price":799.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5426.jpg",
+            "url":"https://bash.com/womens-vans-ward-vintage-indigo-sneaker-190605abdd3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5658",
+            "title":"Women's adidas Court Platform Black Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5658.jpg",
+            "url":"https://bash.com/women-s-adidas-court-platform-black-sneaker-190605aaul2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4590",
+            "title":"Women's Converse Chuck Taylor All Star Platform Blue/White Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4590.jpg",
+            "url":"https://bash.com/women-s-converse-chuck-taylor-all-star-platform-blue-white-sneaker-190605abnk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1626",
+            "title":"Jet Women's 5 Pack Bikini Multicolour RPL Panties",
+            "price":139.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1626.jpg",
+            "url":"https://bash.com/jet-women-s-5-pack-bikini-multicolour-rpl-panties-374503aaap0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5290",
+            "title":"Womens adidas Grand Court Base 2.0 Black/White Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5290.jpg",
+            "url":"https://bash.com/womens-adidas-grand-court-base-2-0-black-white-sneakers-130609actp8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4935",
+            "title":"Womens adidas Chalk White/Core Black/Cloud White Court Platform Shoes",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4935.jpg",
+            "url":"https://bash.com/womens-adidas-chalk-white-core-black-cloud-white-court-platform-shoes-130609actu8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5644",
+            "title":"Vans Women's Checkerboard Classic Slip-On Sneaker",
+            "price":999.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5644.jpg",
+            "url":"https://bash.com/vans-women-s-checkerboard-classic-slip-on-sneaker-060601acbj5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6434",
+            "title":"Converse Women's CTAS Chrome Q Black Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6434.jpg",
+            "url":"https://bash.com/converse-women-s-ctas-chrome-q-black-sneaker-060601afrd9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3235",
+            "title":"adidas Originals Women's 3-Stripe Baby White T-shirt",
+            "price":349.95,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3235.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-3-stripe-baby-white-t-shirt-060601agfi5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1787",
+            "title":"Women's Sand Ribbed Racer Vest",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1787.jpg",
+            "url":"https://bash.com/women-s-sand-ribbed-racer-vest-170800abhl7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5685",
+            "title":"Converse Women's CTAS Black Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5685.jpg",
+            "url":"https://bash.com/converse-women-s-ctas-black-sneaker-060609aaix7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4876",
+            "title":"Women's adidas Breaknet White/Black Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4876.jpg",
+            "url":"https://bash.com/women-s-adidas-breaknet-white-black-sneaker-190605abmg8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2122",
+            "title":"Women's Sage One Slit Wave Skirt",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2122.jpg",
+            "url":"https://bash.com/women-s-sage-one-slit-wave-skirt-170808aalz5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_262",
+            "title":"Women's Natural Co-Ord Seamless Top",
+            "price":179.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_262.jpg",
+            "url":"https://bash.com/women-s-natural-co-ord-seamless-top-170800abje9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5564",
+            "title":"Women's Vans Filmore Hi Top Platform Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5564.jpg",
+            "url":"https://bash.com/women-s-vans-filmore-hi-top-platform-black-white-sneaker-190605aazs6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_440",
+            "title":"Womens Charcoal Seamless Long-Sleeve Top",
+            "price":229.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_440.jpg",
+            "url":"https://bash.com/womens-charcoal-seamless-long-sleeve-top-170800abih5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1726",
+            "title":"Women's White Graphic Print Fitted Top",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1726.jpg",
+            "url":"https://bash.com/women-s-white-graphic-print-fitted-top-170800abio3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6133",
+            "title":"Women's UGG Mustard Seed Tazz Platform Slippers",
+            "price":0,
+            "brand":"UGG",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6133.jpg",
+            "url":"https://bash.com/women-s-ugg-mustard-seed-tazz-platform-slippers-385000aagg4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5125",
+            "title":"Vans Women's Old Skool Multicolour Sneaker",
+            "price":849.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5125.jpg",
+            "url":"https://bash.com/vans-women-s-old-skool-multicolour-sneaker-060601afvn6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1932",
+            "title":"Women's Orange Seamless Tank Vest",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1932.jpg",
+            "url":"https://bash.com/women-s-orange-seamless-tank-vest-170800abgv3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6432",
+            "title":"Converse Women's CTAS Chrome Q White Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6432.jpg",
+            "url":"https://bash.com/converse-women-s-ctas-chrome-q-white-sneaker-060601afrd8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6452",
+            "title":"Superga Women's 2596 Bubble Mid Black Sneaker",
+            "price":0,
+            "brand":"Superga",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6452.jpg",
+            "url":"https://bash.com/superga-women-s-2596-bubble-mid-black-sneaker-060601afqr4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6733",
+            "title":"Womens Converse All Star Move Platform White/Natural Ivory Sneakers",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6733.jpg",
+            "url":"https://bash.com/womens-converse-all-star-move-platform-white-natural-ivory-sneakers-130609abze1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5452",
+            "title":"Womens Vans Filmore Hi Blue/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5452.jpg",
+            "url":"https://bash.com/womens-vans-filmore-hi-blue-white-sneaker-190605abdd0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2074",
+            "title":"Women's Fatigue Cut Out Draped Top",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2074.jpg",
+            "url":"https://bash.com/women-s-fatigue-cut-out-draped-top-170800abgp9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6368",
+            "title":"Nike Women's Air Force 1 Mid White/Red Sneaker",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6368.jpg",
+            "url":"https://bash.com/nike-women-s-air-force-1-mid-white-red-sneaker-060602aavx1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6367",
+            "title":"Nike Women's Air Froce 1 Mid White/Red Sneaker",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6367.jpg",
+            "url":"https://bash.com/nike-women-s-air-froce-1-mid-white-red-sneaker-060601aflw9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4994",
+            "title":"Vans Women's Authentic Black/White Sneaker",
+            "price":849.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4994.jpg",
+            "url":"https://bash.com/vans-women-s-authentic-black-white-sneaker-060601afvn7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5691",
+            "title":"Women's Converse Chuck Taylor All Star Move Black/Ivory/White Platform Sneakers",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5691.jpg",
+            "url":"https://bash.com/women-s-converse-chuck-taylor-all-star-move-black-ivory-white-platform-sneakers-130609adfq3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_75",
+            "title":"Rdbat Women's Black Cropped Top",
+            "price":229.95,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_75.jpg",
+            "url":"https://bash.com/rdbat-women-s-black-cropped-top-060601ages2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6094",
+            "title":"adidas Originals Women's Samba Black/Green Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6094.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-samba-black-green-sneaker-060601afzv5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6060",
+            "title":"adidas Originals Women's Samba OG Black/Green Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6060.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-samba-og-black-green-sneaker-060602abcd4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3337",
+            "title":"Women's Animal Print Bubble Mini Skirt",
+            "price":269.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3337.jpg",
+            "url":"https://bash.com/women-s-animal-print-bubble-mini-skirt-170808aaof2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6697",
+            "title":"adidas Originals Women's Nizza Platform Mid White Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6697.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-nizza-platform-mid-white-sneaker-060601afgv6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5805",
+            "title":"Nike Women's Phoenix Waffle White/Green/Grey Sneaker",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5805.jpg",
+            "url":"https://bash.com/nike-women-s-phoenix-waffle-white-green-grey-sneaker-060602aayn2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5980",
+            "title":"Nike Women's Waffle White/Green Sneaker",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5980.jpg",
+            "url":"https://bash.com/nike-women-s-waffle-white-green-sneaker-060601aftd8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1591",
+            "title":"Redbat Classics Women's Black Cropped Top",
+            "price":0,
+            "brand":"Redbat Classics",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1591.jpg",
+            "url":"https://bash.com/redbat-classics-women-s-black-cropped-top-060601afpf1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1929",
+            "title":"Women's Denim Blue Seamless Tank Vest",
+            "price":129.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1929.jpg",
+            "url":"https://bash.com/women-s-denim-blue-seamless-tank-vest-170800abgv2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4901",
+            "title":"Vans Women's Authentic Clue/White Sneaker",
+            "price":849.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4901.jpg",
+            "url":"https://bash.com/vans-women-s-authentic-clue-white-sneaker-060601afvo7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4895",
+            "title":"Nike Women's Court Vision Low White/Green Sneaker",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4895.jpg",
+            "url":"https://bash.com/nike-women-s-court-vision-low-white-green-sneaker-060601afmb3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5505",
+            "title":"Women's Converse Chuck Taylor All Stars Canvas Platform Black sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5505.jpg",
+            "url":"https://bash.com/women-s-converse-chuck-taylor-all-stars-canvas-platform-black-sneaker-190605aayb5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2082",
+            "title":"Women's Fatigue Seamless High Neck Vest",
+            "price":99.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2082.jpg",
+            "url":"https://bash.com/women-s-fatigue-seamless-high-neck-vest-170800abfp4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5829",
+            "title":"Women's Nike Quest 6 Black/White Running Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5829.jpg",
+            "url":"https://bash.com/women-s-nike-quest-6-black-white-running-shoes-130609acxi0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6204",
+            "title":"Womens Nike In-Season 13 Black/White Training Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6204.jpg",
+            "url":"https://bash.com/womens-nike-in-season-13-black-white-training-shoes-130609acsh3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6243",
+            "title":"Womens Converse Move Black Sneakers",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6243.jpg",
+            "url":"https://bash.com/womens-converse-move-black-sneakers-130609addw8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2229",
+            "title":"Women's Black Seamless Bra",
+            "price":109.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2229.jpg",
+            "url":"https://bash.com/women-s-black-seamless-bra-030303aavz6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5040",
+            "title":"Women's adidas VL Court Green/White Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5040.jpg",
+            "url":"https://bash.com/women-s-adidas-vl-court-green-white-sneaker-190605ably9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4975",
+            "title":"Womens Nike Legend Essential 3 Next Nature White/Crimson Training Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4975.jpg",
+            "url":"https://bash.com/womens-nike-legend-essential-3-next-nature-white-crimson-training-shoes-130609acsi1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4912",
+            "title":"Women's Black Ankle Strap Block Heels",
+            "price":229.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4912.jpg",
+            "url":"https://bash.com/women-s-black-ankle-strap-block-heels-030303abdr4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6476",
+            "title":"Converse Women's CTAS Lift Platform Yellow Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6476.jpg",
+            "url":"https://bash.com/converse-women-s-ctas-lift-platform-yellow-sneaker-060602aayz9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6357",
+            "title":"Vans Women's KNU Stack White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6357.jpg",
+            "url":"https://bash.com/vans-women-s-knu-stack-white-sneaker-060602aazf6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5661",
+            "title":"Women's Vans Ward Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5661.jpg",
+            "url":"https://bash.com/women-s-vans-ward-black-white-sneaker-190605aapy9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5702",
+            "title":"adidas Originals Women's Taekwondo Black/White Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5702.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-taekwondo-black-white-sneaker-060602abct1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7126",
+            "title":"Ts White Lifestyle Peak Cap",
+            "price":169.95,
+            "brand":"Ts",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7126.jpg",
+            "url":"https://bash.com/ts-white-lifestyle-peak-cap-130609abyf5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4951",
+            "title":"Womens Superga Classic Platform Blue Spectum Sneakers",
+            "price":0,
+            "brand":"Superga",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4951.jpg",
+            "url":"https://bash.com/womens-superga-classic-platform-blue-spectum-sneakers-130609acvn2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2681",
+            "title":"Nike Women's NSW High-Waisted Woven Black Trousers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2681.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-high-waisted-woven-black-trousers-060601afmm9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5724",
+            "title":"Women's Nike Court Vision Black/White Mid Sneakers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5724.jpg",
+            "url":"https://bash.com/women-s-nike-court-vision-black-white-mid-sneakers-130609acxo9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6701",
+            "title":"adidas Originals Women's Nizza Platform Mid Green Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6701.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-nizza-platform-mid-green-sneaker-060601afgv8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5708",
+            "title":"Woman's adidas VL Court Bold White/Crystal White Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5708.jpg",
+            "url":"https://bash.com/woman-s-adidas-vl-court-bold-white-crystal-white-sneakers-130609adcz4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6970",
+            "title":"Women's Blue Distressed Brasil Peak Cap",
+            "price":129.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6970.jpg",
+            "url":"https://bash.com/women-s-blue-distressed-brasil-peak-cap-170807aafb5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5930",
+            "title":"Womens Nike Court Vision Next Nature Black/White Low Sneakers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5930.jpg",
+            "url":"https://bash.com/womens-nike-court-vision-next-nature-black-white-low-sneakers-130609acxm7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5995",
+            "title":"Womens Nike MC Trainer 3 White/Cyber/Hot Punch/Black Training Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5995.jpg",
+            "url":"https://bash.com/womens-nike-mc-trainer-3-white-cyber-hot-punch-black-training-shoes-130609acxk5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6399",
+            "title":"Reebok Women's BB 4000 II  Green Sneaker",
+            "price":0,
+            "brand":"Reebok",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6399.jpg",
+            "url":"https://bash.com/reebok-women-s-bb-4000-ii-green-sneaker-060609aahu6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6768",
+            "title":"Puma Women's Spina Nitro Black/Pink Sneaker",
+            "price":199.99,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6768.jpg",
+            "url":"https://bash.com/puma-women-s-spina-nitro-black-pink-sneaker-060601afgh1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_451",
+            "title":"Women's White Cut Out Seamless Crop Top",
+            "price":229.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_451.jpg",
+            "url":"https://bash.com/women-s-white-cut-out-seamless-crop-top-170800abif2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_162",
+            "title":"Women's White Cropped Boxy Shirt",
+            "price":199.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_162.jpg",
+            "url":"https://bash.com/women-s-white-cropped-boxy-shirt-170800abkp5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1808",
+            "title":"Women's Black Open Back Long Sleeve Top",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1808.jpg",
+            "url":"https://bash.com/women-s-black-open-back-long-sleeve-top-170800abhy4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4669",
+            "title":"Vans Women's Slip On Platform Black/White Sneaker",
+            "price":999.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4669.jpg",
+            "url":"https://bash.com/vans-women-s-slip-on-platform-black-white-sneaker-060602abet0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1209",
+            "title":"Redbat Classics Women's Bright Blue Cropped Top",
+            "price":149.95,
+            "brand":"Redbat Classics",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1209.jpg",
+            "url":"https://bash.com/redbat-classics-women-s-bright-blue-cropped-top-060601agat5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5678",
+            "title":"Converse Women's Lugged Heel Platform Black Boot",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5678.jpg",
+            "url":"https://bash.com/converse-women-s-lugged-heel-platform-black-boot-060602abda3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5558",
+            "title":"Womens Superga Classic Canvas Black/White Sneakers",
+            "price":949.95,
+            "brand":"Superga",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5558.jpg",
+            "url":"https://bash.com/womens-superga-classic-canvas-black-white-sneakers-130609acmz3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8064",
+            "title":"Womens adidas Tiro Cut 3-stripes Black Cropped Tank Top",
+            "price":749.95,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8064.jpg",
+            "url":"https://bash.com/womens-adidas-tiro-cut-3-stripes-black-cropped-tank-top-130608aazx8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5693",
+            "title":"Women's Converse Chuck Taylor All Star Leather White Platform Sneakers",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5693.jpg",
+            "url":"https://bash.com/women-s-converse-chuck-taylor-all-star-leather-white-platform-sneakers-130609adfp1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_352",
+            "title":"Women's Light Wash Denim Mini Skirt",
+            "price":249.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_352.jpg",
+            "url":"https://bash.com/women-s-light-wash-denim-mini-skirt-170808aanp0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5309",
+            "title":"Womens Nike Revolution 7 Black/White Running Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5309.jpg",
+            "url":"https://bash.com/womens-nike-revolution-7-black-white-running-shoes-130609acpr7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5229",
+            "title":"Women's Vans Ward Blue/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5229.jpg",
+            "url":"https://bash.com/women-s-vans-ward-blue-white-sneaker-190605aazs1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6508",
+            "title":"Women's ALDO Black Boots",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6508.jpg",
+            "url":"https://bash.com/women-s-aldo-black-boots-385000aamp3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2343",
+            "title":"Women's Guess Coral Keyhole Morgen Woven Top",
+            "price":0,
+            "brand":"Guess",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2343.jpg",
+            "url":"https://bash.com/women-s-guess-coral-keyhole-morgen-woven-top-385000aaqq4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2015",
+            "title":"Women's Green Ribbed Racer Vest",
+            "price":129.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2015.jpg",
+            "url":"https://bash.com/women-s-green-ribbed-racer-vest-170800abfx4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1706",
+            "title":"Women's White Cut Out Graphic T-Shirt",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1706.jpg",
+            "url":"https://bash.com/women-s-white-cut-out-graphic-t-shirt-170800abil1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4948",
+            "title":"Vans Women's Sk8-HI Stackform Sage Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4948.jpg",
+            "url":"https://bash.com/vans-women-s-sk8-hi-stackform-sage-sneaker-060602aazh6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5038",
+            "title":"Women's Vans Ward Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5038.jpg",
+            "url":"https://bash.com/women-s-vans-ward-black-white-sneaker-190605ably6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_89",
+            "title":"Women's Seamless Open Back Top",
+            "price":179.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_89.jpg",
+            "url":"https://bash.com/women-s-seamless-open-back-top-170800abjo4/p",
+            "price_currency":"ZAR"
+         }
+      ]
+   },
+   {
+      "name":"pants",
+      "items":[
+         {
+            "id":"bash_3145",
+            "title":"adidas Originals Women's Adicolor Beige Pants",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3145.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-adicolor-beige-pants-060602aatm5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_424",
+            "title":"Women's Grey Fleece Darted Jogger",
+            "price":249.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_424.jpg",
+            "url":"https://bash.com/women-s-grey-fleece-darted-jogger-170808aanl0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2169",
+            "title":"Women's Orange Darted Pants",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2169.jpg",
+            "url":"https://bash.com/women-s-orange-darted-pants-170808aalr9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_510",
+            "title":"Women's Fatigue Taslon Darted Barrel Joggers",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_510.jpg",
+            "url":"https://bash.com/women-s-fatigue-taslon-darted-barrel-joggers-170808aani9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2869",
+            "title":"Converse Women's Parachute Natural Pants",
+            "price":599,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2869.jpg",
+            "url":"https://bash.com/converse-women-s-parachute-natural-pants-060609aahj4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1057",
+            "title":"Straight Leg Pleated Poplin Pants",
+            "price":799,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1057.jpg",
+            "url":"https://bash.com/straight-leg-pleated-poplin-pants-000007aazj4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2465",
+            "title":"Womens adidas Tiro Cargo Purple Pants",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2465.jpg",
+            "url":"https://bash.com/womens-adidas-tiro-cargo-purple-pants-130608abbi0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4415",
+            "title":"Women's Black & Stone Colour Block Utility Pants",
+            "price":749,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4415.jpg",
+            "url":"https://bash.com/women-s-black-stone-colour-block-utility-pants-170808aalu5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_559",
+            "title":"Women's Grey Melange Darted Fleece Joggers",
+            "price":249.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_559.jpg",
+            "url":"https://bash.com/women-s-grey-melange-darted-fleece-joggers-170808aane0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2684",
+            "title":"Converse Women's Parachute Grey Pants",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2684.jpg",
+            "url":"https://bash.com/converse-women-s-parachute-grey-pants-060609aail7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2889",
+            "title":"Womens Nike Sportswear Fleece Milk Joggers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2889.jpg",
+            "url":"https://bash.com/womens-nike-sportswear-fleece-milk-joggers-130608aawl3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2298",
+            "title":"Converse Women's Jenna Vintage Tan Pants",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2298.jpg",
+            "url":"https://bash.com/converse-women-s-jenna-vintage-tan-pants-060609aaiw3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8749",
+            "title":"Nike Women's Nsw Ecru Cargo Pants (Plus Size)",
+            "price":169.99,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8749.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-ecru-cargo-pants-plus-size-060601aeyt6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2369",
+            "title":"Puma Women's Dare To Parachute Alpine Snow Pants",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2369.jpg",
+            "url":"https://bash.com/puma-women-s-dare-to-parachute-alpine-snow-pants-060601agbz4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2565",
+            "title":"G-Star Women's Tone On Tone Cargo Brown Pants",
+            "price":0,
+            "brand":"G-Star",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2565.jpg",
+            "url":"https://bash.com/g-star-women-s-tone-on-tone-cargo-brown-pants-260207abgh3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_17",
+            "title":"Redbat Women's White Graphic T-Shirt",
+            "price":179.95,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_17.jpg",
+            "url":"https://bash.com/redbat-women-s-white-graphic-t-shirt-060601ager4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8184",
+            "title":"Vans Women's Alder Relaxed Pleated Natural Pants",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8184.jpg",
+            "url":"https://bash.com/vans-women-s-alder-relaxed-pleated-natural-pants-060601afrh9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3834",
+            "title":"Women's Stone Parachute Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3834.jpg",
+            "url":"https://bash.com/women-s-stone-parachute-pants-170808aani5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3474",
+            "title":"Women's Natural Taslon Parachute Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3474.jpg",
+            "url":"https://bash.com/women-s-natural-taslon-parachute-pants-170808aaoc0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3813",
+            "title":"Women's Fatigue Taslon Parachute Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3813.jpg",
+            "url":"https://bash.com/women-s-fatigue-taslon-parachute-pants-170808aano0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3367",
+            "title":"Redbat Classics Women's Tobacco Oversized Jogger",
+            "price":399.95,
+            "brand":"Redbat Classics",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3367.jpg",
+            "url":"https://bash.com/redbat-classics-women-s-tobacco-oversized-jogger-060601afvy9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8515",
+            "title":"Puma Women's Dare To Olive Parachute Pants",
+            "price":299.99,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8515.jpg",
+            "url":"https://bash.com/puma-women-s-dare-to-olive-parachute-pants-060609aahn1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4282",
+            "title":"Women's Stone Darted Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4282.jpg",
+            "url":"https://bash.com/women-s-stone-darted-pants-170808aalb0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8386",
+            "title":"Women's Canvas Sweat Pants",
+            "price":599,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8386.jpg",
+            "url":"https://bash.com/women-s-canvas-sweat-pants-385000aaeg8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3321",
+            "title":"Women's Dark Wash Mega Baggy Jeans",
+            "price":399.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3321.jpg",
+            "url":"https://bash.com/women-s-dark-wash-mega-baggy-jeans-170808aanz2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4108",
+            "title":"Iconography Strapless Bootube Jumpsuit With Pockets Black",
+            "price":149.95,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4108.jpg",
+            "url":"https://bash.com/iconography-strapless-bootube-jumpsuit-with-pockets-black-385001aabp8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8328",
+            "title":"Puma Women's Classics Relaxed Tan Pants",
+            "price":159.95,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8328.jpg",
+            "url":"https://bash.com/puma-women-s-classics-relaxed-tan-pants-060601afnt0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3154",
+            "title":"Puma Women's Downtown Peach Pants",
+            "price":379.99,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3154.jpg",
+            "url":"https://bash.com/puma-women-s-downtown-peach-pants-060602aara2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3056",
+            "title":"New Balance Women's Collegiate Pink Jogger",
+            "price":0,
+            "brand":"New Balance",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3056.jpg",
+            "url":"https://bash.com/new-balance-women-s-collegiate-pink-jogger-060609aaia4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8357",
+            "title":"Barrel Leg Paper Bag Waist Utility Pants",
+            "price":599,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8357.jpg",
+            "url":"https://bash.com/barrel-leg-paper-bag-waist-utility-pants-000007aazy1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2569",
+            "title":"Puma Women's T7 Play Loud Yellow Track Pants",
+            "price":199,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2569.jpg",
+            "url":"https://bash.com/puma-women-s-t7-play-loud-yellow-track-pants-060601agby9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3733",
+            "title":"Women's Stone Exposed Elastic Band Tailored Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3733.jpg",
+            "url":"https://bash.com/women-s-stone-exposed-elastic-band-tailored-pants-170808aanq2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3341",
+            "title":"Women's Light  Wash Mega Baggy Jeans",
+            "price":399.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3341.jpg",
+            "url":"https://bash.com/women-s-light-wash-mega-baggy-jeans-170808aanz1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3729",
+            "title":"Redbat Women's Plum Utility Joggers",
+            "price":0,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3729.jpg",
+            "url":"https://bash.com/redbat-women-s-plum-utility-joggers-060601afkw4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2635",
+            "title":"G-Star Women's Utility Cropped Fatigue Pants",
+            "price":0,
+            "brand":"G-Star",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2635.jpg",
+            "url":"https://bash.com/g-star-women-s-utility-cropped-fatigue-pants-260207abfc8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_607",
+            "title":"Women's Fatigue Parachute Pants",
+            "price":99.95,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_607.jpg",
+            "url":"https://bash.com/women-s-fatigue-parachute-pants-170808aang0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3767",
+            "title":"Jet Women's Stone Belted Utility Cargo Pants",
+            "price":269.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3767.jpg",
+            "url":"https://bash.com/jet-women-s-stone-belted-utility-cargo-pants-374502aavt5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4271",
+            "title":"Pull-On Utility Joggers",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4271.jpg",
+            "url":"https://bash.com/pull-on-utility-joggers-000007aaze9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3544",
+            "title":"Women's Natural Co-Ord Darted Jogger Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3544.jpg",
+            "url":"https://bash.com/women-s-natural-co-ord-darted-jogger-pants-170808aany6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3540",
+            "title":"Women's Medium Wash Two Tone Flared Wide Leg Jeans",
+            "price":399.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3540.jpg",
+            "url":"https://bash.com/women-s-medium-wash-two-tone-flared-wide-leg-jeans-170808aans9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7915",
+            "title":"Linen Blend Wide Leg Utility Pants",
+            "price":599,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7915.jpg",
+            "url":"https://bash.com/linen-blend-wide-leg-utility-pants-000007abap4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3833",
+            "title":"Women's Olive Green Parachute Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3833.jpg",
+            "url":"https://bash.com/women-s-olive-green-parachute-pants-170808aann9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2687",
+            "title":"Vans Women's Sidewalk Denim Cargo Pant - Stone Wash",
+            "price":399,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2687.jpg",
+            "url":"https://bash.com/vans-women-s-sidewalk-denim-cargo-pant-stone-wash-060601afri2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3497",
+            "title":"Women's Black Relaxed Utility Pants",
+            "price":359.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3497.jpg",
+            "url":"https://bash.com/women-s-black-relaxed-utility-pants-170808aanl7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8307",
+            "title":"Redbat Women's Fatigue Utility Straight Leg Pants",
+            "price":119.99,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8307.jpg",
+            "url":"https://bash.com/redbat-women-s-fatigue-utility-straight-leg-pants-060601afkd6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3502",
+            "title":"Women's Natural Relaxed Utility Pants",
+            "price":359.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3502.jpg",
+            "url":"https://bash.com/women-s-natural-relaxed-utility-pants-170808aanl8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2989",
+            "title":"Women's Roxy Brown Trackpants",
+            "price":899.95,
+            "brand":"Roxy",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2989.jpg",
+            "url":"https://bash.com/women-s-roxy-brown-trackpants-385000aalq9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8689",
+            "title":"Luella Linen Wide Leg Belted Trousers",
+            "price":0,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8689.jpg",
+            "url":"https://bash.com/luella-linen-wide-leg-belted-trousers-000008agbf3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2138",
+            "title":"Women's White Seamless Rib Vest",
+            "price":99.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2138.jpg",
+            "url":"https://bash.com/women-s-white-seamless-rib-vest-170800abfj5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2506",
+            "title":"Nike Women's NSW Phoenix Fleece Mid-Rise Black Flare Pants",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2506.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-phoenix-fleece-mid-rise-black-flare-pants-060601afue7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2374",
+            "title":"Nike Women's NSW Mid-Rise Oversized Grey Cargo Trousers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2374.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-mid-rise-oversized-grey-cargo-trousers-060601afug0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2341",
+            "title":"Women's Guess Orange 1981 Kick Flare Jeans",
+            "price":0,
+            "brand":"Guess",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2341.jpg",
+            "url":"https://bash.com/women-s-guess-orange-1981-kick-flare-jeans-385000aaqn7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3133",
+            "title":"Nike Women's ACG Khaki Pants",
+            "price":199.99,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3133.jpg",
+            "url":"https://bash.com/nike-women-s-acg-khaki-pants-060602aarw9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3747",
+            "title":"Women's Mocha Co-Ord With Contrast Side Panel Utility Pants",
+            "price":349.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3747.jpg",
+            "url":"https://bash.com/women-s-mocha-co-ord-with-contrast-side-panel-utility-pants-170808aann3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4036",
+            "title":"Women's Light Wash Rip & Repair Wide Leg Jeans",
+            "price":399.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4036.jpg",
+            "url":"https://bash.com/women-s-light-wash-rip-repair-wide-leg-jeans-170808aamt1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3225",
+            "title":"Women's Black Wide Leg Pant With Contrast Side",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3225.jpg",
+            "url":"https://bash.com/women-s-black-wide-leg-pant-with-contrast-side-170808aaof6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2929",
+            "title":"Women's VNTU Beige Wide Leg Denim Trouser",
+            "price":950,
+            "brand":"VNTU",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2929.jpg",
+            "url":"https://bash.com/women-s-vntu-beige-wide-leg-denim-trouser-385000aaod8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2906",
+            "title":"Nike Women's NSW Essentials Woven High-Rise Mauve Pants",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2906.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-essentials-woven-high-rise-mauve-pants-060602aaun4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2972",
+            "title":"Womens Nike Sportswear Phoenix Fleece Oversized Mauve Trackpants",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2972.jpg",
+            "url":"https://bash.com/womens-nike-sportswear-phoenix-fleece-oversized-mauve-trackpants-130608aayv1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2682",
+            "title":"Converse Women's Parachute Black Pants",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2682.jpg",
+            "url":"https://bash.com/converse-women-s-parachute-black-pants-060609aaik6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3731",
+            "title":"Women's Black Co-Ord With Contrast Side Panel Utility Pants",
+            "price":349.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3731.jpg",
+            "url":"https://bash.com/women-s-black-co-ord-with-contrast-side-panel-utility-pants-170808aann2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4052",
+            "title":"Women's Iconography Pallazo Trouser",
+            "price":349,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4052.jpg",
+            "url":"https://bash.com/women-s-iconography-pallazo-trouser-385001aabm3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1243",
+            "title":"Jet Women's Blue/White Leaf Print Tapered Pants",
+            "price":149.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1243.jpg",
+            "url":"https://bash.com/jet-women-s-blue-white-leaf-print-tapered-pants-374502aaaw4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_740",
+            "title":"Y&G Parachute Pants",
+            "price":0,
+            "brand":"YandG",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_740.jpg",
+            "url":"https://bash.com/y-g-parachute-pants-000004aalc7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3085",
+            "title":"Women's One Teaspoon Blue Lilac Palazzo Jeans",
+            "price":0,
+            "brand":"One Teaspoon",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3085.jpg",
+            "url":"https://bash.com/women-s-one-teaspoon-blue-lilac-palazzo-jeans-385000aals0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7917",
+            "title":"Redbat Women's Black Skate Jeans",
+            "price":699.95,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7917.jpg",
+            "url":"https://bash.com/redbat-women-s-black-skate-jeans-060601afxo2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8485",
+            "title":"Women's Roxy Black Unbrushed Trackpants",
+            "price":699.95,
+            "brand":"Roxy",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8485.jpg",
+            "url":"https://bash.com/women-s-roxy-black-unbrushed-trackpants-385000aalr6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8786",
+            "title":"Vans Women's Natural Sidewalk Pants",
+            "price":139.99,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8786.jpg",
+            "url":"https://bash.com/vans-women-s-natural-sidewalk-pants-060601afhb6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4445",
+            "title":"Women's Fatigue Utility Pants With Elastic Waistband",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4445.jpg",
+            "url":"https://bash.com/women-s-fatigue-utility-pants-with-elastic-waistband-170808aakt4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4296",
+            "title":"Women's Fatigue Darted Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4296.jpg",
+            "url":"https://bash.com/women-s-fatigue-darted-pants-170808aalm0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2619",
+            "title":"Puma Women's T7 Low Rise Black Track Pants",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2619.jpg",
+            "url":"https://bash.com/puma-women-s-t7-low-rise-black-track-pants-060601agcd7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2438",
+            "title":"Nike Women's NSW Essential Mid-Rise Blue Oversized Woven Joggers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2438.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-essential-mid-rise-blue-oversized-woven-joggers-060601afue1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8420",
+            "title":"Barrel Leg Paper Bag Waist Utility Pants",
+            "price":599,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8420.jpg",
+            "url":"https://bash.com/barrel-leg-paper-bag-waist-utility-pants-000007aazy2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8192",
+            "title":"News Denim Self Tie Balloon Leg Jeans",
+            "price":599,
+            "brand":"News",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8192.jpg",
+            "url":"https://bash.com/news-denim-self-tie-balloon-leg-jeans-000000aail0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3744",
+            "title":"Women's Fatigue Taslon Parachute Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3744.jpg",
+            "url":"https://bash.com/women-s-fatigue-taslon-parachute-pants-170808aani4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4446",
+            "title":"Women's Black Darted Pant",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4446.jpg",
+            "url":"https://bash.com/women-s-black-darted-pant-170808aalb3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2285",
+            "title":"Women's Black Jogger",
+            "price":0,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2285.jpg",
+            "url":"https://bash.com/women-s-black-jogger-030303aaxv8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3242",
+            "title":"Broad Hem Wide Leg Washer Pants",
+            "price":399,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3242.jpg",
+            "url":"https://bash.com/broad-hem-wide-leg-washer-pants-000007abap1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4322",
+            "title":"Women's Stone Skinny Structured Trousers",
+            "price":289.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4322.jpg",
+            "url":"https://bash.com/women-s-stone-skinny-structured-trousers-030303abbr6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8821",
+            "title":"Nike Women's Nsw Stone Cargo Pants",
+            "price":499,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8821.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-stone-cargo-pants-060601aeye1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3260",
+            "title":"Redbat Women's Black Leggings",
+            "price":399.95,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3260.jpg",
+            "url":"https://bash.com/redbat-women-s-black-leggings-060601agaz7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8532",
+            "title":"Redbat Women's Curry Utility/Bag Pants",
+            "price":459,
+            "brand":"Redbat",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8532.jpg",
+            "url":"https://bash.com/redbat-women-s-curry-utility-bag-pants-060601afkd5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_425",
+            "title":"Women's Black Fleece Darted Jogger",
+            "price":249.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_425.jpg",
+            "url":"https://bash.com/women-s-black-fleece-darted-jogger-170808aank9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2304",
+            "title":"Nike Women's NSW Mid-Rise Oversized Cargo Tan Trousers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2304.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-mid-rise-oversized-cargo-tan-trousers-060601afug2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2598",
+            "title":"Womens Puma Evostripe Mauve Pants",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2598.jpg",
+            "url":"https://bash.com/womens-puma-evostripe-mauve-pants-130608aaza5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2681",
+            "title":"Nike Women's NSW High-Waisted Woven Black Trousers",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2681.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-high-waisted-woven-black-trousers-060601afmm9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3510",
+            "title":"Jet Women's Fatigue Camo Utility Pants",
+            "price":269.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3510.jpg",
+            "url":"https://bash.com/jet-women-s-fatigue-camo-utility-pants-374502aavx5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4290",
+            "title":"News Denim Coated Skinny Leg Jeans",
+            "price":79.99,
+            "brand":"News",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4290.jpg",
+            "url":"https://bash.com/news-denim-coated-skinny-leg-jeans-000000aagw0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_8403",
+            "title":"Wide Leg Pleated Mini Pocket Pants",
+            "price":559,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_8403.jpg",
+            "url":"https://bash.com/wide-leg-pleated-mini-pocket-pants-000007aazz7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4462",
+            "title":"Tapered Leg Darted High Waist Pants",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4462.jpg",
+            "url":"https://bash.com/tapered-leg-darted-high-waist-pants-000007aayx7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2502",
+            "title":"Nike Women's NSW High Waisted Dark Blue Pants",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2502.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-high-waisted-dark-blue-pants-060601afui6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3855",
+            "title":"Women's Medium Wash Wide Leg Jeans",
+            "price":399.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3855.jpg",
+            "url":"https://bash.com/women-s-medium-wash-wide-leg-jeans-170808aanh3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3695",
+            "title":"Pleather Wide Leg Elasticated Pants",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3695.jpg",
+            "url":"https://bash.com/pleather-wide-leg-elasticated-pants-000007aazy9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_538",
+            "title":"Women's Black Darted Fleece Joggers",
+            "price":249.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_538.jpg",
+            "url":"https://bash.com/women-s-black-darted-fleece-joggers-170808aand9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4347",
+            "title":"Women's Elwen Design Sand Wideleg Dad Fit Pants",
+            "price":0,
+            "brand":"Elwen Design",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4347.jpg",
+            "url":"https://bash.com/women-s-elwen-design-sand-wideleg-dad-fit-pants-385000aabt6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4393",
+            "title":"Women's Fatigue Printed Darted Pants",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4393.jpg",
+            "url":"https://bash.com/women-s-fatigue-printed-darted-pants-170808aalw3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2318",
+            "title":"adidas Women's Atlanta Wonder Beige Track Pants",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2318.jpg",
+            "url":"https://bash.com/adidas-women-s-atlanta-wonder-beige-track-pants-060601agfd7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3055",
+            "title":"Nike Women's Nsw Black Skirt",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3055.jpg",
+            "url":"https://bash.com/nike-women-s-nsw-black-skirt-060601aeyh4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3755",
+            "title":"Women's Charcoal Melton Joggers",
+            "price":329.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3755.jpg",
+            "url":"https://bash.com/women-s-charcoal-melton-joggers-170808aanm9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2975",
+            "title":"Women's Steve Madden Beige Co-ord Zoey Scuba Joggers",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2975.jpg",
+            "url":"https://bash.com/women-s-steve-madden-beige-co-ord-zoey-scuba-joggers-385000aali9/p",
+            "price_currency":"ZAR"
+         }
+      ]
+   },
+   {
+      "name":"shoes",
+      "items":[
+         {
+            "id":"bash_5381",
+            "title":"Womens Vans Filmore Hi Canvas Pink Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5381.jpg",
+            "url":"https://bash.com/womens-vans-filmore-hi-canvas-pink-sneaker-190605abdc7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5651",
+            "title":"Women's Vans Filmore Hi Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5651.jpg",
+            "url":"https://bash.com/women-s-vans-filmore-hi-black-white-sneaker-190605aaqb8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_781",
+            "title":"Nike Everyday Plus Lightweight White Footie Socks",
+            "price":249.95,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_781.jpg",
+            "url":"https://bash.com/nike-everyday-plus-lightweight-white-footie-socks-130609acvc0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5045",
+            "title":"Women's Vans Ward Platform Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5045.jpg",
+            "url":"https://bash.com/women-s-vans-ward-platform-black-white-sneaker-190605ably7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5305",
+            "title":"Women's Call It Spring Orange Heels",
+            "price":0,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5305.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-orange-heels-385000aame6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5529",
+            "title":"Women's Vans Ward Pink/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5529.jpg",
+            "url":"https://bash.com/women-s-vans-ward-pink-white-sneaker-190605abdd4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5528",
+            "title":"Women's Puma Vikky V3 Mid White/Pink Sneaker",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5528.jpg",
+            "url":"https://bash.com/women-s-puma-vikky-v3-mid-white-pink-sneaker-190605abcz4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4935",
+            "title":"Womens adidas Chalk White/Core Black/Cloud White Court Platform Shoes",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4935.jpg",
+            "url":"https://bash.com/womens-adidas-chalk-white-core-black-cloud-white-court-platform-shoes-130609actu8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5936",
+            "title":"Womens adidas Rapidmove ADV Trainer Purple Burst Training Shoes",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5936.jpg",
+            "url":"https://bash.com/womens-adidas-rapidmove-adv-trainer-purple-burst-training-shoes-130609adcz0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5452",
+            "title":"Womens Vans Filmore Hi Blue/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5452.jpg",
+            "url":"https://bash.com/womens-vans-filmore-hi-blue-white-sneaker-190605abdd0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6001",
+            "title":"Womens adidas VL Court Bold Preloved Green/Pink Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6001.jpg",
+            "url":"https://bash.com/womens-adidas-vl-court-bold-preloved-green-pink-sneakers-130609adcz8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4705",
+            "title":"Jet Women's Black Mid Block Heels",
+            "price":209.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4705.jpg",
+            "url":"https://bash.com/jet-women-s-black-mid-block-heels-374505abgr0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5663",
+            "title":"Women's Vans Ward Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5663.jpg",
+            "url":"https://bash.com/women-s-vans-ward-black-white-sneaker-190605aaqc0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5946",
+            "title":"Women's ALDO Beige Uliana Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5946.jpg",
+            "url":"https://bash.com/women-s-aldo-beige-uliana-heels-385000aatx1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6136",
+            "title":"Womens Nike Air Zoom Alphafly Next% 3 Green Running Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6136.jpg",
+            "url":"https://bash.com/womens-nike-air-zoom-alphafly-next-3-green-running-shoes-130609acsk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4707",
+            "title":"Jet Women's Black Ankle Tie Stiletto Heels",
+            "price":209.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4707.jpg",
+            "url":"https://bash.com/jet-women-s-black-ankle-tie-stiletto-heels-374505abgq1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5201",
+            "title":"Women's Call It Spring Black Heels",
+            "price":0,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5201.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-black-heels-385000aamr7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5564",
+            "title":"Women's Vans Filmore Hi Top Platform Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5564.jpg",
+            "url":"https://bash.com/women-s-vans-filmore-hi-top-platform-black-white-sneaker-190605aazs6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4876",
+            "title":"Women's adidas Breaknet White/Black Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4876.jpg",
+            "url":"https://bash.com/women-s-adidas-breaknet-white-black-sneaker-190605abmg8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6450",
+            "title":"adidas Originals Women's White/Beige Sneaker",
+            "price":349,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6450.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-white-beige-sneaker-060602aays7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4702",
+            "title":"Jet Women's Nude Mid Block Heels",
+            "price":209.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4702.jpg",
+            "url":"https://bash.com/jet-women-s-nude-mid-block-heels-374505abgr1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4818",
+            "title":"Women's Call It Spring Red Joliie Dress Heels",
+            "price":959,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4818.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-red-joliie-dress-heels-385000aatt7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4777",
+            "title":"Women's Madison Tan Penny 5 Light Plain Court Heels",
+            "price":549,
+            "brand":"Madison",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4777.jpg",
+            "url":"https://bash.com/women-s-madison-tan-penny-5-light-plain-court-heels-385000aase5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5629",
+            "title":"Women's Vans Filmore Hi Platform Black/White Sneaker",
+            "price":899.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5629.jpg",
+            "url":"https://bash.com/women-s-vans-filmore-hi-platform-black-white-sneaker-190605aawy0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4912",
+            "title":"Women's Black Ankle Strap Block Heels",
+            "price":229.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4912.jpg",
+            "url":"https://bash.com/women-s-black-ankle-strap-block-heels-030303abdr4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6615",
+            "title":"Womens adidas Avryn_X White Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6615.jpg",
+            "url":"https://bash.com/womens-adidas-avryn-x-white-sneakers-130609actw5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6697",
+            "title":"adidas Originals Women's Nizza Platform Mid White Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6697.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-nizza-platform-mid-white-sneaker-060601afgv6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5458",
+            "title":"Pointed Toe Block Heels",
+            "price":399,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5458.jpg",
+            "url":"https://bash.com/pointed-toe-block-heels-000006aban0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6373",
+            "title":"adidas Originals Women's Adilette 22 XLG Green/White Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6373.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-adilette-22-xlg-green-white-sneaker-060602aayv7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5290",
+            "title":"Womens adidas Grand Court Base 2.0 Black/White Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5290.jpg",
+            "url":"https://bash.com/womens-adidas-grand-court-base-2-0-black-white-sneakers-130609actp8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5300",
+            "title":"Women's Call It Spring Green Heels",
+            "price":859,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5300.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-green-heels-385000aamg2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5715",
+            "title":"Women's adidas Adistar 3 White/Black/Pulse Lime Running Shoes",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5715.jpg",
+            "url":"https://bash.com/women-s-adidas-adistar-3-white-black-pulse-lime-running-shoes-130609addc6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5731",
+            "title":"Women's  Steve Madden Orange Vault 1 Sneakers",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5731.jpg",
+            "url":"https://bash.com/women-s-steve-madden-orange-vault-1-sneakers-385000aawo1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5947",
+            "title":"Women's ALDO Black Uliana Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5947.jpg",
+            "url":"https://bash.com/women-s-aldo-black-uliana-heels-385000aatw7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5046",
+            "title":"Women's adidas Breaknet 2.0 White/Green Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5046.jpg",
+            "url":"https://bash.com/women-s-adidas-breaknet-2-0-white-green-sneaker-190605abmh1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5661",
+            "title":"Women's Vans Ward Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5661.jpg",
+            "url":"https://bash.com/women-s-vans-ward-black-white-sneaker-190605aapy9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5863",
+            "title":"Vans Women's KNU Stack Black/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5863.jpg",
+            "url":"https://bash.com/vans-women-s-knu-stack-black-white-sneaker-060602aber0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6752",
+            "title":"Vans Women's KNU Stack Natural Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6752.jpg",
+            "url":"https://bash.com/vans-women-s-knu-stack-natural-sneaker-060601afbn0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5071",
+            "title":"Women's Skechers Summit Black Sneaker",
+            "price":0,
+            "brand":"Skechers",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5071.jpg",
+            "url":"https://bash.com/women-s-skechers-summit-black-sneaker-190605ablz6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6025",
+            "title":"Womens Reebok Court Advance Surge White/Black Platform Shoes",
+            "price":0,
+            "brand":"Reebok",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6025.jpg",
+            "url":"https://bash.com/womens-reebok-court-advance-surge-white-black-platform-shoes-130609adfa0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5248",
+            "title":"Women's Call It Spring Beige Heels",
+            "price":0,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5248.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-beige-heels-385000aamr5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6314",
+            "title":"Women's ALDO Beige Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6314.jpg",
+            "url":"https://bash.com/women-s-aldo-beige-heels-385000aaph7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5259",
+            "title":"Women's Black Ankle Strap Block Heels",
+            "price":199.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5259.jpg",
+            "url":"https://bash.com/women-s-black-ankle-strap-block-heels-030303abcg8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5684",
+            "title":"Vans Women's CB SK8 HI Grey/White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5684.jpg",
+            "url":"https://bash.com/vans-women-s-cb-sk8-hi-grey-white-sneaker-060602abeq9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6701",
+            "title":"adidas Originals Women's Nizza Platform Mid Green Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6701.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-nizza-platform-mid-green-sneaker-060601afgv8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5644",
+            "title":"Vans Women's Checkerboard Classic Slip-On Sneaker",
+            "price":999.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5644.jpg",
+            "url":"https://bash.com/vans-women-s-checkerboard-classic-slip-on-sneaker-060601acbj5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6101",
+            "title":"adidas Originals Women's Sambae White/Green Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6101.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-sambae-white-green-sneaker-060601afzv6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6309",
+            "title":"adidas Originals Women's Gazelle Yellow/Orange Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6309.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-gazelle-yellow-orange-sneaker-060601afpl4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6302",
+            "title":"adidas Originals Women's Gazelle Yellow/Orange Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6302.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-gazelle-yellow-orange-sneaker-060602aayy1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5708",
+            "title":"Woman's adidas VL Court Bold White/Crystal White Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5708.jpg",
+            "url":"https://bash.com/woman-s-adidas-vl-court-bold-white-crystal-white-sneakers-130609adcz4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5173",
+            "title":"Womens adidas Response Black/White Running Shoes",
+            "price":199,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5173.jpg",
+            "url":"https://bash.com/womens-adidas-response-black-white-running-shoes-130609acty6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4994",
+            "title":"Vans Women's Authentic Black/White Sneaker",
+            "price":849.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4994.jpg",
+            "url":"https://bash.com/vans-women-s-authentic-black-white-sneaker-060601afvn7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6507",
+            "title":"Women's ALDO Bone Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6507.jpg",
+            "url":"https://bash.com/women-s-aldo-bone-heels-385000aamn8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5426",
+            "title":"Womens Vans Ward Vintage Indigo Sneaker",
+            "price":799.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5426.jpg",
+            "url":"https://bash.com/womens-vans-ward-vintage-indigo-sneaker-190605abdd3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5251",
+            "title":"Women's Red Zip Lace Up Sandal",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5251.jpg",
+            "url":"https://bash.com/women-s-red-zip-lace-up-sandal-170800abhq5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5295",
+            "title":"Women's ALDO Brown Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5295.jpg",
+            "url":"https://bash.com/women-s-aldo-brown-heels-385000aamj6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5303",
+            "title":"Women's Call It Spring Black Heels",
+            "price":859,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5303.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-black-heeled-dress-shoes-385000aame3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4580",
+            "title":"Women's  Steve Madden Black Rollout Heels",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4580.jpg",
+            "url":"https://bash.com/women-s-steve-madden-black-rollout-heels-385000aawl4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5039",
+            "title":"Women's Vans Ward Green Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5039.jpg",
+            "url":"https://bash.com/women-s-vans-ward-green-sneaker-190605ably5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6618",
+            "title":"Women's ALDO Beige Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6618.jpg",
+            "url":"https://bash.com/women-s-aldo-beige-heels-385000aamj8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6574",
+            "title":"adidas Originals Women's Ozmillen White/Silver Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6574.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-ozmillen-white-silver-sneaker-060601afpp8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6800",
+            "title":"Women's ALDO Brown Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6800.jpg",
+            "url":"https://bash.com/women-s-aldo-brown-heels-385000aacg8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5250",
+            "title":"Women's Black Zip Lace Up Sandal",
+            "price":299.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5250.jpg",
+            "url":"https://bash.com/women-s-black-zip-lace-up-sandal-170800abhq4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5781",
+            "title":"Women's Aldo Pink Stessy 2.0 Dress Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5781.jpg",
+            "url":"https://bash.com/women-s-aldo-pink-stessy-2-0-dress-heels-385000aawg6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6768",
+            "title":"Puma Women's Spina Nitro Black/Pink Sneaker",
+            "price":199.99,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6768.jpg",
+            "url":"https://bash.com/puma-women-s-spina-nitro-black-pink-sneaker-060601afgh1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6686",
+            "title":"Reebok Women's Club C Extra White/Green Sneaker",
+            "price":0,
+            "brand":"Reebok",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6686.jpg",
+            "url":"https://bash.com/reebok-women-s-club-c-extra-white-green-sneaker-060601afbt3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5652",
+            "title":"Women's Puma R78 White/Violet/Pink Sneaker",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5652.jpg",
+            "url":"https://bash.com/women-s-puma-r78-white-violet-pink-sneaker-190605aayn1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6621",
+            "title":"Women's ALDO Black Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6621.jpg",
+            "url":"https://bash.com/women-s-aldo-black-heeled-dress-shoes-385000aamj7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5294",
+            "title":"Women's ALDO Black Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5294.jpg",
+            "url":"https://bash.com/women-s-aldo-black-heels-385000aamj5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5328",
+            "title":"Womens adidas Grand Court Alpha Wonder Orchid Sneakers",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5328.jpg",
+            "url":"https://bash.com/womens-adidas-grand-court-alpha-wonder-orchid-sneakers-130609acoi6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6033",
+            "title":"adidas Originals Women's Ozmillen Grey Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6033.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-ozmillen-grey-sneaker-060601agcm9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5878",
+            "title":"Women's Steve Madden Black & Tan Evelyn-C Dress Heels",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5878.jpg",
+            "url":"https://bash.com/women-s-steve-madden-black-tan-evelyn-c-dress-heels-385000aavx2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6715",
+            "title":"adidas Originals Women's Ozweego Pink Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6715.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-ozweego-pink-sneaker-060601afch9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6819",
+            "title":"ALDO Women's Black Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6819.jpg",
+            "url":"https://bash.com/aldo-women-s-black-heeled-dress-shoes-385000aabf2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5750",
+            "title":"Women's  Steve Madden Black Elevate 3 Sneakers",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5750.jpg",
+            "url":"https://bash.com/women-s-steve-madden-black-elevate-3-sneakers-385000aawm2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6487",
+            "title":"Asics Women's Gel-Nimbus 9 Brown Sneaker",
+            "price":0,
+            "brand":"Asics",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6487.jpg",
+            "url":"https://bash.com/asics-women-s-gel-nimbus-9-brown-sneaker-060601afqh8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6784",
+            "title":"Asics Women's Gel-Nimbus 9 Multicolour Sneaker",
+            "price":699.95,
+            "brand":"Asics",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6784.jpg",
+            "url":"https://bash.com/asics-women-s-gel-nimbus-9-multicolour-sneaker-060602aata5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6525",
+            "title":"Puma Women's Mayze Queen Of Hearts White Platform Sneaker",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6525.jpg",
+            "url":"https://bash.com/puma-women-s-mayze-queen-of-hearts-white-platform-sneaker-060601afkn3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6762",
+            "title":"Womens New Balance Fresh Foam X 1080v13 Sea Salt/Grey Running Shoes",
+            "price":449,
+            "brand":"New Balance",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6762.jpg",
+            "url":"https://bash.com/womens-new-balance-fresh-foam-x-1080v13-sea-salt-grey-running-shoes-130609acqo6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6799",
+            "title":"adidas Originals Women's Ozweego Sage Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6799.jpg",
+            "url":"https://bash.com/adidas-originals-women-s-ozweego-sage-sneaker-060601afch7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4663",
+            "title":"Women's Sissy Boy Black Slingback with Diamante Bow Heels",
+            "price":0,
+            "brand":"Sissy Boy",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4663.jpg",
+            "url":"https://bash.com/women-s-sissy-boy-black-slingback-with-diamante-bow-heels-385000aatr9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5785",
+            "title":"Women's Aldo Black  Faith Dress Heels",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5785.jpg",
+            "url":"https://bash.com/women-s-aldo-black-faith-dress-heels-385000aawg3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5873",
+            "title":"Women's Steve Madden Black Vivion Dress Heels",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5873.jpg",
+            "url":"https://bash.com/women-s-steve-madden-black-vivion-dress-heels-385000aavx1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5658",
+            "title":"Women's adidas Court Platform Black Sneaker",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5658.jpg",
+            "url":"https://bash.com/women-s-adidas-court-platform-black-sneaker-190605aaul2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6238",
+            "title":"Converse Women's CTAS Lift Mid Flame White Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6238.jpg",
+            "url":"https://bash.com/converse-women-s-ctas-lift-mid-flame-white-sneaker-060601afzx1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6055",
+            "title":"Women's Steve Madden Black Bel-Air Heels",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6055.jpg",
+            "url":"https://bash.com/women-s-steve-madden-black-bel-air-heels-385000aane5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6535",
+            "title":"Asics Women's Gel-Nimbus 9 Multicolour Sneaker",
+            "price":89.99,
+            "brand":"Asics",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6535.jpg",
+            "url":"https://bash.com/asics-women-s-gel-nimbus-9-multicolour-sneaker-060602aazd7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6260",
+            "title":"Converse Women's Chuch 70 High Pink Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6260.jpg",
+            "url":"https://bash.com/converse-women-s-chuch-70-high-pink-sneaker-060602abbi2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6582",
+            "title":"Puma Women's Seude XL Green Sneaker",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6582.jpg",
+            "url":"https://bash.com/puma-women-s-seude-xl-green-sneaker-060601afkm8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5128",
+            "title":"Junior Grade-School Court 3.0 Sued Blue/White Shoes",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5128.jpg",
+            "url":"https://bash.com/junior-grade-school-court-3-0-sued-blue-white-shoes-130609acun9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5425",
+            "title":"Womens Puma Kaia 2.0 Platform White/Black Sneaker",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5425.jpg",
+            "url":"https://bash.com/womens-puma-kaia-2-0-platform-white-black-sneaker-190605abcz3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4767",
+            "title":"Women's Red Buckle Ankle Stap Heel",
+            "price":329.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4767.jpg",
+            "url":"https://bash.com/women-s-red-buckle-ankle-stap-heel-170800abji7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5994",
+            "title":"Womens Nike MC Trainer 3 Black/White Training Shoes",
+            "price":0,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5994.jpg",
+            "url":"https://bash.com/womens-nike-mc-trainer-3-black-white-training-shoes-130609acxk6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6856",
+            "title":"Converse Women's Run Star Hike Low Black Sneaker",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6856.jpg",
+            "url":"https://bash.com/converse-women-s-run-star-hike-low-black-sneaker-060601aeev5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6340",
+            "title":"Women's Steve Madden Pink Ele Heels",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6340.jpg",
+            "url":"https://bash.com/women-s-steve-madden-pink-ele-heels-385000aanf6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4784",
+            "title":"Jet Women's Black Mid Block Heels",
+            "price":179.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4784.jpg",
+            "url":"https://bash.com/jet-women-s-black-mid-block-heels-374505aawm0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6357",
+            "title":"Vans Women's KNU Stack White Sneaker",
+            "price":0,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6357.jpg",
+            "url":"https://bash.com/vans-women-s-knu-stack-white-sneaker-060602aazf6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4797",
+            "title":"Women's Call It Spring Beige Dazling Dress Heels",
+            "price":899,
+            "brand":"Call It Spring",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4797.jpg",
+            "url":"https://bash.com/women-s-call-it-spring-beige-dazling-dress-heels-385000aatt6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4949",
+            "title":"Womens Converse All Star Lift Seasonal Brown Sneakers",
+            "price":0,
+            "brand":"Converse",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4949.jpg",
+            "url":"https://bash.com/womens-converse-all-star-lift-seasonal-brown-sneakers-130609addw1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_4669",
+            "title":"Vans Women's Slip On Platform Black/White Sneaker",
+            "price":999.95,
+            "brand":"Vans",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_4669.jpg",
+            "url":"https://bash.com/vans-women-s-slip-on-platform-black-white-sneaker-060602abet0/p",
+            "price_currency":"ZAR"
+         }
+      ]
+   },
+   {
+      "name":"accessories",
+      "items":[
+         {
+            "id":"bash_7801",
+            "title":"3pk Pink Acrylic Clip Set",
+            "price":129,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7801.jpg",
+            "url":"https://bash.com/3pk-pink-acrylic-clip-set-36y610aaad2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7672",
+            "title":"Studded Coin Purse & Heart Drop Earring Set",
+            "price":149.99,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7672.jpg",
+            "url":"https://bash.com/studded-coin-purse-heart-drop-earring-set-36y620aaab8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7792",
+            "title":"3pk Pearl & Sparkling Hearts Hair Clip set",
+            "price":99,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7792.jpg",
+            "url":"https://bash.com/3pk-pearl-sparkling-hearts-hair-clip-set-36y601aaah7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7797",
+            "title":"6pk Multi Green & Pearl Hair Clip Set",
+            "price":149,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7797.jpg",
+            "url":"https://bash.com/6pk-multi-green-pearl-hair-clip-set-36y601aaah8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7383",
+            "title":"Women's Iconography Camera Bag",
+            "price":499,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7383.jpg",
+            "url":"https://bash.com/women-s-iconography-camera-bag-385001aabd0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7379",
+            "title":"Women's Iconography Pleated Padded Bag",
+            "price":0,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7379.jpg",
+            "url":"https://bash.com/women-s-iconography-pleated-padded-bag-385001aabd6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7602",
+            "title":"Canvas Studios Peak Cap",
+            "price":250,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7602.jpg",
+            "url":"https://bash.com/canvas-studios-peak-cap-385000aabh9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7377",
+            "title":"Women's Iconography Padded Cross Body Bag",
+            "price":179.95,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7377.jpg",
+            "url":"https://bash.com/women-s-iconography-padded-cross-body-bag-385001aabd4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7693",
+            "title":"Black Quilted Crossbody Handbag & Earrings Set",
+            "price":0,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7693.jpg",
+            "url":"https://bash.com/black-quilted-crossbody-handbag-earrings-set-36y620aaac5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7563",
+            "title":"Women's Iconography Zip Around Continental Wallet",
+            "price":0,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7563.jpg",
+            "url":"https://bash.com/women-s-iconography-zip-around-continental-wallet-385001aaay2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6991",
+            "title":"Circle Buckle Wide Belt",
+            "price":149,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6991.jpg",
+            "url":"https://bash.com/circle-buckle-wide-belt-000003abvu0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7300",
+            "title":"Women's Steve Madden Yellow Bsacha-c Camera Bag",
+            "price":0,
+            "brand":"Steve Madden",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7300.jpg",
+            "url":"https://bash.com/women-s-steve-madden-yellow-bsacha-c-camera-bag-385000aakr1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7054",
+            "title":"Women's ALDO Bone Luxsavane Top Handle Handbag",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7054.jpg",
+            "url":"https://bash.com/women-s-aldo-bone-luxsavane-top-handle-handbag-385000aatu0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7290",
+            "title":"Women's Stone Crossbody Bag",
+            "price":199.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7290.jpg",
+            "url":"https://bash.com/women-s-stone-crossbody-bag-030303abct9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7376",
+            "title":"Women's Iconography Padded Cross Body Bag",
+            "price":0,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7376.jpg",
+            "url":"https://bash.com/women-s-iconography-padded-cross-body-bag-385001aabd4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6992",
+            "title":"Solid Buckle Wide Belt",
+            "price":149,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6992.jpg",
+            "url":"https://bash.com/solid-buckle-wide-belt-000003abvt7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7524",
+            "title":"Women's Iconography Cross Body Bag",
+            "price":899,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7524.jpg",
+            "url":"https://bash.com/women-s-iconography-cross-body-bag-385001aaay3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7384",
+            "title":"Women's Iconography Camera Bag",
+            "price":220,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7384.jpg",
+            "url":"https://bash.com/women-s-iconography-camera-bag-385001aabd0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2434",
+            "title":"Adidas Ksenia Tag Women's Fleece Sweater",
+            "price":0,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2434.jpg",
+            "url":"https://bash.com/adidas-ksenia-tag-women-s-fleece-sweater-060601agfg6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7685",
+            "title":"Silver Metallic Handbag & Star Detail Belt Set",
+            "price":0,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7685.jpg",
+            "url":"https://bash.com/silver-metallic-handbag-star-detail-belt-set-36y620aaac3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6895",
+            "title":"Women's Canvas Soft Foldover Cross Body Bag",
+            "price":699,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6895.jpg",
+            "url":"https://bash.com/women-s-canvas-soft-foldover-cross-body-bag-385000aapl1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7388",
+            "title":"Canvas Rib Beanie",
+            "price":999.95,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7388.jpg",
+            "url":"https://bash.com/canvas-rib-beanie-385000aadk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6963",
+            "title":"Women's Gold Printed Scarf",
+            "price":99.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6963.jpg",
+            "url":"https://bash.com/women-s-gold-printed-scarf-170807aafe8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7320",
+            "title":"Jet Women's Black Double O-Ring Fashion Belt",
+            "price":69.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7320.jpg",
+            "url":"https://bash.com/jet-women-s-black-double-o-ring-fashion-belt-374509aaam5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7285",
+            "title":"Nude Pleated Scarf",
+            "price":199,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7285.jpg",
+            "url":"https://bash.com/nude-pleated-scarf-36y601aaat2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7628",
+            "title":"2 Pack Beaded Skinny Aliceband",
+            "price":109,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7628.jpg",
+            "url":"https://bash.com/2-pack-beaded-skinny-aliceband-000003abqr9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7562",
+            "title":"Women's Iconography Zip Around Continental Wallet",
+            "price":759,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7562.jpg",
+            "url":"https://bash.com/women-s-iconography-zip-around-continental-wallet-385001aaay2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7378",
+            "title":"Women's Iconography Pleated Padded Bag",
+            "price":299.99,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7378.jpg",
+            "url":"https://bash.com/women-s-iconography-pleated-padded-bag-385001aabd6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7523",
+            "title":"Women's Iconography Cross Body Bag",
+            "price":899,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7523.jpg",
+            "url":"https://bash.com/women-s-iconography-cross-body-bag-385001aaay3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7560",
+            "title":"Women's Iconography Fold Over Bi-fold Wallet",
+            "price":599,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7560.jpg",
+            "url":"https://bash.com/women-s-iconography-fold-over-bi-fold-wallet-385001aaax7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7111",
+            "title":"Luella Large Oblong Scarf",
+            "price":329,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7111.jpg",
+            "url":"https://bash.com/luella-large-oblong-scarf-000003abvz6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7221",
+            "title":"FF Buckle Skinny Belt",
+            "price":149,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7221.jpg",
+            "url":"https://bash.com/ff-buckle-skinny-belt-000003abvn8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7385",
+            "title":"Canvas Rib Beanie",
+            "price":0,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7385.jpg",
+            "url":"https://bash.com/canvas-rib-beanie-385000aadk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6916",
+            "title":"Luella Stripe Scarf",
+            "price":329,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6916.jpg",
+            "url":"https://bash.com/luella-stripe-scarf-000003abvz7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7603",
+            "title":"Canvas Studios Peak Cap",
+            "price":0,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7603.jpg",
+            "url":"https://bash.com/canvas-studios-peak-cap-385000aabh9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7588",
+            "title":"Luella Mono Print Multi Pouch Crossbody Bag",
+            "price":649,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7588.jpg",
+            "url":"https://bash.com/luella-mono-print-multi-pouch-crossbody-bag-000003abrr2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7802",
+            "title":"3pk Mixed Pink Printed Scrunchie Set",
+            "price":129,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7802.jpg",
+            "url":"https://bash.com/3pk-mixed-pink-printed-scrunchie-set-36y610aaad4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7681",
+            "title":"Silver Chain & Black Faux Leather Belt",
+            "price":249,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7681.jpg",
+            "url":"https://bash.com/silver-chain-black-faux-leather-belt-36y601aaap5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6898",
+            "title":"Jet Women's Silver Double O Buckle Belt",
+            "price":69.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6898.jpg",
+            "url":"https://bash.com/jet-women-s-silver-double-o-buckle-belt-374509abmn5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7529",
+            "title":"FF Monogram Printed Scarf",
+            "price":179,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7529.jpg",
+            "url":"https://bash.com/ff-monogram-printed-scarf-000003abtj5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_781",
+            "title":"Nike Everyday Plus Lightweight White Footie Socks",
+            "price":249.95,
+            "brand":"Nike",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_781.jpg",
+            "url":"https://bash.com/nike-everyday-plus-lightweight-white-footie-socks-130609acvc0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7318",
+            "title":"Women's Stone Cellphone Crossbody Bag",
+            "price":169.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7318.jpg",
+            "url":"https://bash.com/women-s-stone-cellphone-crossbody-bag-030303abbw1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7407",
+            "title":"Women's Black Double Buckle Belt",
+            "price":119.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7407.jpg",
+            "url":"https://bash.com/women-s-black-double-buckle-belt-030303abcu9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6960",
+            "title":"Jet Women's Blue/White 2 Pack Paisley Scarf",
+            "price":109.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6960.jpg",
+            "url":"https://bash.com/jet-women-s-blue-white-2-pack-paisley-scarf-374509aace4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_525",
+            "title":"Women's Black Mini Skirt With Pocket Detail",
+            "price":169.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_525.jpg",
+            "url":"https://bash.com/women-s-black-mini-skirt-with-pocket-detail-170808aanb4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7791",
+            "title":"Mustard Plated Alice Band",
+            "price":99,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7791.jpg",
+            "url":"https://bash.com/mustard-plated-alice-band-36y601aaai2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2598",
+            "title":"Womens Puma Evostripe Mauve Pants",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2598.jpg",
+            "url":"https://bash.com/womens-puma-evostripe-mauve-pants-130608aaza5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7222",
+            "title":"Luella Reversible Belt",
+            "price":349,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7222.jpg",
+            "url":"https://bash.com/luella-reversible-belt-000003abum9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7389",
+            "title":"Canvas Rib Beanie",
+            "price":299.99,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7389.jpg",
+            "url":"https://bash.com/canvas-rib-beanie-385000aadk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7397",
+            "title":"Canvas Fluffy Chunky Scarf",
+            "price":299.99,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7397.jpg",
+            "url":"https://bash.com/canvas-fluffy-chunky-scarf-385000aadk0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7798",
+            "title":"Mint Green Plated Alice Band",
+            "price":99,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7798.jpg",
+            "url":"https://bash.com/mint-green-plated-alice-band-36y601aaai3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7386",
+            "title":"Canvas Rib Beanie",
+            "price":649.95,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7386.jpg",
+            "url":"https://bash.com/canvas-rib-beanie-385000aadk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7483",
+            "title":"FF Metal Trim Fedora Hat",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7483.jpg",
+            "url":"https://bash.com/ff-metal-trim-fedora-hat-000003abtq5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_152",
+            "title":"Soiree Cotton T-shirt",
+            "price":199,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_152.jpg",
+            "url":"https://bash.com/soiree-cotton-t-shirt-000001aanc8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2210",
+            "title":"Narrow Clear Bra Straps",
+            "price":99,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2210.jpg",
+            "url":"https://bash.com/narrow-clear-bra-straps-004303aaaa8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2164",
+            "title":"Mesh High Neck Vest",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2164.jpg",
+            "url":"https://bash.com/mesh-high-neck-vest-000001aala9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7316",
+            "title":"Women's Nude Knot Detail Crossbody Bag",
+            "price":229.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7316.jpg",
+            "url":"https://bash.com/women-s-nude-knot-detail-crossbody-bag-170807aaet1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7387",
+            "title":"Canvas Rib Beanie",
+            "price":0,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7387.jpg",
+            "url":"https://bash.com/canvas-rib-beanie-385000aadk1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7380",
+            "title":"Women's Iconography Tote Bag",
+            "price":999,
+            "brand":"Iconography",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7380.jpg",
+            "url":"https://bash.com/women-s-iconography-tote-bag-385001aabd5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7657",
+            "title":"Square Neckerchief",
+            "price":129,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7657.jpg",
+            "url":"https://bash.com/square-neckerchief-000003abmq0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6903",
+            "title":"Women's Aldo White Meilani Crossbody Handbag",
+            "price":0,
+            "brand":"ALDO",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6903.jpg",
+            "url":"https://bash.com/women-s-aldo-white-meilani-crossbody-handbag-385000aawf5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6990",
+            "title":"Circle Metal Buckle Belt",
+            "price":299,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6990.jpg",
+            "url":"https://bash.com/circle-metal-buckle-belt-000003abvu2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7128",
+            "title":"Women's Guess Cream Libera Tri Comp Cnvr Xbdy Flp Bag",
+            "price":0,
+            "brand":"Guess",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7128.jpg",
+            "url":"https://bash.com/women-s-guess-cream-libera-tri-comp-cnvr-xbdy-flp-bag-385000aaos6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7043",
+            "title":"Women's Sissy Boy Black Glitter Small Ball Trim Belt",
+            "price":399,
+            "brand":"Sissy Boy",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7043.jpg",
+            "url":"https://bash.com/women-s-sissy-boy-black-glitter-small-ball-trim-belt-385000aatp7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7037",
+            "title":"Women's White  Polka Dot Scarf",
+            "price":99.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7037.jpg",
+            "url":"https://bash.com/women-s-white-polka-dot-scarf-170807aafg3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7381",
+            "title":"Canvas Quilted Bucket Hat",
+            "price":0,
+            "brand":"Canvas Studios",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7381.jpg",
+            "url":"https://bash.com/canvas-quilted-bucket-hat-385000aadl0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7592",
+            "title":"Luella Mono Print Multi Pouch Crossbody Bag",
+            "price":649,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7592.jpg",
+            "url":"https://bash.com/luella-mono-print-multi-pouch-crossbody-bag-000003abra9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7003",
+            "title":"Jet Women's Natural Straw Gold Buckle Belt",
+            "price":79.99,
+            "brand":"Jet",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7003.jpg",
+            "url":"https://bash.com/jet-women-s-natural-straw-gold-buckle-belt-374509absg8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7803",
+            "title":"6pk Colourful Mini Claw Hair Clip Set",
+            "price":99,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7803.jpg",
+            "url":"https://bash.com/6pk-colourful-mini-claw-hair-clip-set-36y610aaac8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7631",
+            "title":"Colette by Colette Hayman Maggie Ring Clutch Bag",
+            "price":649.95,
+            "brand":"Colette by Colette Hayman",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7631.jpg",
+            "url":"https://bash.com/colette-by-colette-hayman-maggie-ring-clutch-bag-000008agax0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7219",
+            "title":"Luella Reversible Belt",
+            "price":349,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7219.jpg",
+            "url":"https://bash.com/luella-reversible-belt-000003abum8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1033",
+            "title":"Women's Mid Wash Denim Mini Skirt",
+            "price":199.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1033.jpg",
+            "url":"https://bash.com/women-s-mid-wash-denim-mini-skirt-170808aalp9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7800",
+            "title":"Black Velvet Hair Clips & Scrunchie Set",
+            "price":89,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7800.jpg",
+            "url":"https://bash.com/black-velvet-hair-clips-scrunchie-set-36y610aaag8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7682",
+            "title":"Crystal Embellished White Belt",
+            "price":599,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7682.jpg",
+            "url":"https://bash.com/crystal-embellished-white-belt-36y601aaap8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7484",
+            "title":"FF Metal Trim Fedora Hat",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7484.jpg",
+            "url":"https://bash.com/ff-metal-trim-fedora-hat-000003abtq5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7286",
+            "title":"Gold Pleated Scarf",
+            "price":199,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7286.jpg",
+            "url":"https://bash.com/gold-pleated-scarf-36y601aaat3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2291",
+            "title":"Wide Bra Extenders",
+            "price":99,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2291.jpg",
+            "url":"https://bash.com/wide-bra-extenders-004303aaaa7/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7799",
+            "title":"6pk Snap Hair Clip Set",
+            "price":69,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7799.jpg",
+            "url":"https://bash.com/6pk-snap-hair-clip-set-36y610aaag3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7651",
+            "title":"Women's Black Scrunchie Handle Bag",
+            "price":199.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7651.jpg",
+            "url":"https://bash.com/women-s-black-scrunchie-handle-bag-170807aael9/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5418",
+            "title":"Women's UGG Berry Pink Oh Yeah Sandals",
+            "price":0,
+            "brand":"UGG",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5418.jpg",
+            "url":"https://bash.com/women-s-ugg-berry-pink-oh-yeah-sandals-385000aagd3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7426",
+            "title":"FF Enamel Buckle Belt",
+            "price":149,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7426.jpg",
+            "url":"https://bash.com/ff-enamel-buckle-belt-000003abtz4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7317",
+            "title":"Women's Black Knot Detail Crossbody Bag",
+            "price":229.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7317.jpg",
+            "url":"https://bash.com/women-s-black-knot-detail-crossbody-bag-170807aaet0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7442",
+            "title":"Puma Women's Prime Idol Baguette Black Bag",
+            "price":0,
+            "brand":"PUMA",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7442.jpg",
+            "url":"https://bash.com/puma-women-s-prime-idol-baguette-black-bag-060601afku0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_3094",
+            "title":"Women's One Teaspoon White Boyfriend Jeans",
+            "price":329,
+            "brand":"One Teaspoon",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_3094.jpg",
+            "url":"https://bash.com/women-s-one-teaspoon-white-boyfriend-jeans-385000aalt2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7691",
+            "title":"Western Buckle Black Belt",
+            "price":299,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7691.jpg",
+            "url":"https://bash.com/western-buckle-black-belt-36y601aaap4/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7745",
+            "title":"Colette by Colette Hayman Charlie Hardcase Clutch Bag",
+            "price":0,
+            "brand":"Colette by Colette Hayman",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7745.jpg",
+            "url":"https://bash.com/colette-by-colette-hayman-charlie-hardcase-clutch-bag-000008afzp8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7627",
+            "title":"2 Pack Pearl Skinny Aliceband",
+            "price":109,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7627.jpg",
+            "url":"https://bash.com/2-pack-pearl-skinny-aliceband-000003abqs0/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_1689",
+            "title":"Women's Black Taslon Cargo  Culotte Pants",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_1689.jpg",
+            "url":"https://bash.com/women-s-black-taslon-cargo-culotte-pants-170808aang2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7679",
+            "title":"Crystal Embellished Black Belt",
+            "price":599,
+            "brand":"Galaxy & Co",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7679.jpg",
+            "url":"https://bash.com/crystal-embellished-black-belt-36y601aaap6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_81",
+            "title":"Women's Animal Print Mini Skirt With Slit",
+            "price":229.99,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_81.jpg",
+            "url":"https://bash.com/women-s-animal-print-mini-skirt-with-slit-170808aaof3/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7709",
+            "title":"Twisted Buckle Belt",
+            "price":99,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7709.jpg",
+            "url":"https://bash.com/twisted-buckle-belt-000003abpq1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_5556",
+            "title":"Women's Cream Frayed Edge Buckle Sandals",
+            "price":119.99,
+            "brand":"Exact",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_5556.jpg",
+            "url":"https://bash.com/women-s-cream-frayed-edge-buckle-sandals-030303abaq5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7487",
+            "title":"Cable Knit Pom Pom Beanie",
+            "price":0,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7487.jpg",
+            "url":"https://bash.com/cable-knit-pom-pom-beanie-000003abtn2/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_6945",
+            "title":"FF Print Buckled Skinny Belt",
+            "price":149,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_6945.jpg",
+            "url":"https://bash.com/ff-print-buckled-skinny-belt-000003abvo1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2206",
+            "title":"Narrow Bra Extenders",
+            "price":99,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2206.jpg",
+            "url":"https://bash.com/narrow-bra-extenders-004303aaaa6/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7448",
+            "title":"Women's Guess Twiller Minaudiere Bag",
+            "price":119,
+            "brand":"Guess",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7448.jpg",
+            "url":"https://bash.com/women-s-guess-twiller-minaudiere-bag-385000aaia1/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7710",
+            "title":"Diamante Elasticated Waist Belt",
+            "price":179,
+            "brand":"Foschini",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7710.jpg",
+            "url":"https://bash.com/diamante-elasticated-waist-belt-000003abpp8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_2257",
+            "title":"Women's White Seamless Tank Vest",
+            "price":0,
+            "brand":"THE FIX",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_2257.jpg",
+            "url":"https://bash.com/women-s-white-seamless-tank-vest-170800abaw8/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7905",
+            "title":"Womens adidas Essential 3-Stripes Black Shorts",
+            "price":449.95,
+            "brand":"adidas",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7905.jpg",
+            "url":"https://bash.com/womens-adidas-essential-3-stripes-black-shorts-130608aazy5/p",
+            "price_currency":"ZAR"
+         },
+         {
+            "id":"bash_7601",
+            "title":"Luella Branded Belt",
+            "price":349,
+            "brand":"Luella",
+            "image_url":"https://sociate-data-demo.s3.us-east-2.amazonaws.com/bash/bash_7601.jpg",
+            "url":"https://bash.com/luella-branded-belt-000003abrr0/p",
+            "price_currency":"ZAR"
+         }
+      ]
+   }
+]
